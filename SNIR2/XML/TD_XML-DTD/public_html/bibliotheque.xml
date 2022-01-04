@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliotheque SYSTEM "bibliotheque.dtd">
+
+<biblioteque>
+
+    <allee numero ="1">
+        
+        <rayon numero = "1">
+            
+            <ouvrage >
+                <titre>Le papillon des étoiles</titre>
+                <auteur>Bernard WERBER</auteur>
+            </ouvrage>
+            
+            <ouvrage type ="manuelScolaire" numero ="">
+                <titre>Les Formes de base</titre>
+                <auteur>Daniele Dumont</auteur>
+            </ouvrage>
+            
+            <ouvrage type ="scienceEtTechnique" >
+                <titre>XML et XSL : Les feuilles de style XML</titre>
+                <auteur>Cyril Vincent</auteur>
+            </ouvrage>
+            
+        </rayon>
+        
+        <rayon numero = "2">
+            
+            <ouvrage type ="periodique" numero ="102">
+                <titre>LINUX Magazine</titre>
+                <auteur></auteur>
+            </ouvrage>
+            
+            <ouvrage type ="periodique">
+                <titre>Closer</titre>
+                <auteur></auteur>
+            </ouvrage>
+            
+            <ouvrage numero ="1">
+                <titre>Harry Potter</titre>
+                <auteur>JK Rollin</auteur>
+            </ouvrage>
+            
+        </rayon>
+        
+    </allee>
+    
+    <allee numero="2">
+        <rayon numero="1">
+            
+            <ouvrage  numero ="31">
+                <titre>Jeu de nains</titre>
+                <auteur>Terry Pratchett</auteur>
+            </ouvrage>
+            
+        </rayon>
+        
+        <rayon numero="2">
+            
+            <ouvrage  numero ="2">
+                <titre>Fondation</titre>
+                <auteur>Isaac Asimov</auteur>
+            </ouvrage>
+            
+            <ouvrage type ="scienceEtTechnique">
+                <titre>Ajax, jQuery et PHP</titre>
+                <auteur>Jean-marie Defrance</auteur>
+            </ouvrage>
+            
+        </rayon>
+        
+    </allee>
+
+</biblioteque>
