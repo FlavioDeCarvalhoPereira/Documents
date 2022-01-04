@@ -1,0 +1,4 @@
+Ajouter Barre carre
+Ajouter Barre ronde
+Afficher le catalogue
+Quitter
